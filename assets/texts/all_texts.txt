@@ -1,0 +1,86 @@
+page01_name:
+MAURÍCIO DOLLENZ
+
+page01_roles:
+Mágico • Comediante • Mestre de Cerimônia
+
+page02_headline:
+O melhor da mágica com o melhor do humor.
+
+page03_title:
+Apresentação
+
+page03_body:
+Chileno e radicado no Brasil, com mais de quinze anos de experiência, Maurício Dollenz é ator, ilusionista e comediante.
+
+Foi discípulo do maior mágico chileno da atualidade, o Mago Fernando Larrain, com quem aprendeu truques, técnicas, segredos e mistérios que permeiam o mundo da mágica e em 2001 fundou a primeira Escola de Magia em Valencia, Espanha.
+
+Já viajou por mais de 25 países apresentando em três idiomas o seu número, trazendo um show interativo, divertido e com bastante improviso, resultando em um novo espetáculo a cada apresentação.
+
+Seu carisma com o público e sua elegante vestimenta são sua marca registrada, adaptando-se a todos os públicos.
+
+Atuou em diversos programas e campanhas publicitárias.
+
+Atualmente está em tour pelo Brasil com o espetáculo ONE MAN SHOW nos formatos PRESENCIAL E ONLINE e com o show CORINGA, divulgando sua apresentação solo em diversos Clubes de Comédia e programas de TV.
+
+page04_title:
+Palestra Corporativa de Entretenimento
+
+page04_body:
+Focamos no que é importante para impulsionar a produtividade da empresa, através de refinado linguajar e surpreendentes elementos mágicos em uma palestra divertida com o objetivo de ilustrar a importância da colaboração, trabalho em equipe, protagonismo e foco, de uma forma lúdica e leve.
+
+O espetáculo é totalmente interativo e conta com uma boa dose de improviso de acordo com a reação de cada participante, o que torna cada evento único, divertido e inesperado.
+
+Trabalhamos com alguns já consagrados formatos de eventos como o Pokerman e One Man Show que mescla com primor as artes da mágica, ventriloquia, improviso e interpretação.
+
+Nosso grande diferencial é a flexibilidade em poder montar uma apresentação personalizada e exclusiva, focando diretamente nos objetivos do seu evento, após um briefing detalhado.
+
+page05_left_title:
+Mestre de Cerimônia
+
+page05_left_items:
+['Eventos corporativos', 'Palestras motivacionais', 'Confraternizações']
+
+page05_center_title:
+Mágico
+
+page05_center_items:
+['One Man Show', 'Pokerman', 'Pocketshow intimista']
+
+page05_right_title:
+Comediante
+
+page05_right_items:
+['Standup comedy', 'Comédia com briefing da empresa']
+
+page05_theme_title:
+Palestra Corporativa de Entretenimento
+
+page05_theme_items:
+['Clima Organizacional', 'Trabalho de equipe', 'Integração corporativa', 'Qualidade de vida', 'Sinergia']
+
+page06_title:
+Rider Técnico Presencial
+
+page06_subtitle:
+Som e Luz
+
+page06_items:
+['1 microfone de mão sem fio com pedestal;', 'PA compatível com o local;', '1 monitor de retorno;', 'Temporizador;', '2 elipsoidais de foco, frontal;', '1 elipsoidal de foco, contra;', 'Luz de plateia;', 'House mix básica para som e luz com operador;', '1 banqueta alta “bistrô”.']
+
+page06_note:
+O equipamento de luz pode variar de acordo com o tamanho do espaço do contratante.
+
+page07_headline:
+Competência, carisma e know-how
+
+page08_title:
+Alguns parceiros e clientes
+
+page09_labels:
+['YouTube', 'Instagram']
+
+page10_text:
+Agradeço!
+Espero o seu retorno em breve.
+

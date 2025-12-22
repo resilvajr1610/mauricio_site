@@ -1,0 +1,27 @@
+name: mauricio_dollenz_web
+description: Landing page responsiva (PC e Mobile) baseada no PDF do Maurício Dollenz.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10
+  google_fonts: ^6.2.1
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pages_png/
+    - assets/embedded_images/
+    - assets/texts/
+    - assets/photos/
