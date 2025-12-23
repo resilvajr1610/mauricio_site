@@ -251,7 +251,7 @@ class _LandingPageState extends State<LandingPage> {
                         labels: (s['page09_labels'] as List?)
                                 ?.map((e) => e.toString())
                                 .toList() ??
-                            const ['YouTube', 'Instagram'],
+                            const ['WhatsApp', 'YouTube', 'Instagram'],
                       ),
                     ),
                     _Footer(
@@ -404,9 +404,16 @@ class _HeroSection extends StatelessWidget {
                     runSpacing: 12,
                     children: [
                       _PillButton(
-                        label: 'Ver vídeos',
+                        label: 'WhatsApp',
+                        onTap: () => _launch(
+                            'https://wa.me/5511962662610?text=Olá,%20vim%20pela%20sua%20página%20,gostaria%20de%20informações%20para%20contratação'),
+                        outlined: true,
+                      ),
+                      _PillButton(
+                        label: 'Youtube',
                         onTap: () =>
                             _launch('https://www.youtube.com/@MauricioDollenz'),
+                        outlined: true,
                       ),
                       _PillButton(
                         label: 'Instagram',
@@ -787,10 +794,13 @@ class _SocialRow extends StatelessWidget {
       runSpacing: 14,
       children: [
         _SocialCard(
-            label: labels.isNotEmpty ? labels[0] : 'YouTube',
-            url: 'https://www.youtube.com/@MauricioDollenz'),
+            label: 'WhatsApp',
+            url:
+                'https://wa.me/5511962662610?text=Olá,%20vim%20pela%20sua%20página%20,gostaria%20de%20informações%20para%20contratação'),
         _SocialCard(
-            label: labels.length > 1 ? labels[1] : 'Instagram',
+            label: 'YouTube', url: 'https://www.youtube.com/@MauricioDollenz'),
+        _SocialCard(
+            label: 'Instagram',
             url: 'https://www.instagram.com/mauriciodollenz/'),
       ],
     );
